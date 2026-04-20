@@ -1,0 +1,10 @@
+url: "https://wdh-sitstg2.nokiawing.com/"
+username: "csp_jan22"
+password: "Nokia@1234"
+headless: false
+browser: "chromium"
+realmId: "wdh-sitstg2"
+auth_url:  "https://wdh-sitstg2.nokiawing.com/uam/auth/realms/wdh-sitstg2/protocol/openid-connect/token"
+
+
+

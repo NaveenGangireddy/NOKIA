@@ -1,0 +1,7 @@
+url: "https://wdh-sit.nokiawing.com/"
+username: "csp_sanity"
+password: "Nokia123"
+browser: "chromium"
+headless: false
+realmId: "wdh-sit"
+auth_url:  "https://wdh-sit.nokiawing.com/uam/auth/realms/wdh-sit/protocol/openid-connect/token"
